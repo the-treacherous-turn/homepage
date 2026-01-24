@@ -16,7 +16,7 @@ main_team:
 - name: Daniel Kokotajlo
   avatar: img/headshots/daniel.png
   role: ai expert & mentor
-- name: iris holloway
+- name: iris lemony
   avatar: img/headshots/iris (official).png
   role: lead game designer
   link: https://iris-lemony.itch.io/
